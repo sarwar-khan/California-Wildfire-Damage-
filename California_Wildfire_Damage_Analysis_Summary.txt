@@ -9,7 +9,7 @@ Key Insights & Findings:
   - The highest area burned occurred in 2023, followed by 2021 and 2015, demonstrating a clear upward trend in wildfire intensity over the years.  
   - 2023: 390k Acres
   - 2021: 350k Acres  
-  - 2015: 335k Acres]  
+  - 2015: 335k Acres 
 
 - Causes of Wildfires:  
   - Human Activity contributed to 38% of the wildfires.  
