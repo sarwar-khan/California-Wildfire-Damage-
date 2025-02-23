@@ -1,0 +1,37 @@
+
+California Wildfire Damage Analysis & Insights
+
+This project involved analyzing the California Wildfire Damage dataset to uncover patterns in the area burned, financial losses, and the impact on communities over the years. The analysis highlighted trends and key contributing factors of wildfire damage, providing insights for strategic decision-making and risk mitigation.
+
+Key Insights & Findings:
+
+- Area Burned (Year-wise):  
+  - The highest area burned occurred in 2023, followed by 2021 and 2015, demonstrating a clear upward trend in wildfire intensity over the years.  
+  - 2023: 390k Acres
+  - 2021: 350k Acres  
+  - 2015: 335k Acres]  
+
+- Causes of Wildfires:  
+  - Human Activity contributed to 38% of the wildfires.  
+  - Lightning and Unknown causes each accounted for 31% of the wildfires.  
+
+- Financial Losses:  
+  - The highest financial loss due to wildfires was recorded in 2021, followed by 2018.  
+  - 2021 Loss: 37.06 Million $
+  - 2018 Loss: 30.93$]  
+
+- Human Impact:  
+  - Both human injuries and fatalities have shown an upward trend, highlighting the increasing risk to human lives.  
+  - Injuries: 42.04 (mean)  
+  - Fatalities: 9.93(mean)
+
+- Top 5 Locations with the Most Area Burned:  
+  - Shasta County  
+  - Mendocino County  
+  - Butte County  
+  - Orange County  
+  - San Diego County  
+
+Project Description:
+
+The goal of this analysis was to examine historical trends in California wildfires, with a focus on damaged areas, financial impact, and causes. The findings underscore the importance of addressing human-induced wildfires and preparing for the increasing severity of fires in the coming years. The data was processed and visualized using Python (Pandas, NumPy, Plotly) to generate insights that can support future disaster management and prevention efforts.
